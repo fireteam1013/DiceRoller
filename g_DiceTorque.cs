@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+    //This is the script that rolls the die and checks the roll result.
     //This script is added to each die
 public class g_DiceTorque : MonoBehaviour {
 
