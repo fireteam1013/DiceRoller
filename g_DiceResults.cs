@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
+    //This code doesn't actually check the results, it recieves the results from the Torque script and outputs the results in text form.
 public class g_DiceResults : MonoBehaviour {
 
     public Text results;
