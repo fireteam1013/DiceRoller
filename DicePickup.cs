@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
+    //This script sets the die position at Start and when the reroll button is pressed. 
 public class DicePickup : MonoBehaviour {
 
 
